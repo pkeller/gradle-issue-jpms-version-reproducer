@@ -23,5 +23,5 @@ https://user-images.githubusercontent.com/419883/147940456-d0c96c90-f2b5-4574-81
 - Adjust the [GitHub Action file](.github/workflows/run-reproducer.yml)
   - You can configure the executed Gradle tasks as well as the environment (task options, log level, JVM version, operating system, etc)
   - The documentation for the Gradle GitHub Action is available [here](https://github.com/gradle/actions/blob/main/docs/setup-gradle.md)
-- Verify that the reproducer exhibits the problem on the [GitHub Action page](https://github.com/gradle/gradle-issue-reproducer/actions)
+- Verify that the reproducer exhibits the problem on the [GitHub Action page](https://github.com/pkeller/gradle-issue-jpms-version-reproducer/actions)
 - Link your reproducer to the issue
